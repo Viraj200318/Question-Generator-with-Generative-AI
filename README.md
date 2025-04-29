@@ -18,6 +18,7 @@ This project is a **Python-based Jupyter Notebook application** that uses a Gene
 
 - Python 3.8 or above
 - OpenAI API key (or equivalent for another supported AI provider)
+- Here Generative AI is Gemini model (Gemini 2.0 Flash)
 
 ## Setup Instructions
 
